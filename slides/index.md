@@ -15,10 +15,10 @@ footer: published by [Marp Next](https://marp.app/)
 
 ## **Marp** Example Slides
 
-- [example](example.md) by Marp
-- [example](marp_next_tips.md) for my theme's Olive
-- [example](marp_next_colors.md) by my theme's Colors
-- [example](marp_next_haskell.md) by my theme's Haskell
+- [example](example) by Marp
+- [example](marp_next_tips) for my theme's Olive
+- [example](marp_next_colors) by my theme's Colors
+- [example](marp_next_haskell) by my theme's Haskell
 
 ![width:200px](https://avatars3.githubusercontent.com/u/20685754?s=200&v=4)
 

@@ -3,7 +3,6 @@
 
 public/*
 !public/.gitkeep
-!public/_redirects
 
 ### Emacs ###
 # -*- mode: gitignore; -*-

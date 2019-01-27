@@ -13,6 +13,7 @@
   },
   "marp": {
     "inputDir": "slides",
-    "output": "public"
+    "output": "public",
+    "themeSet": "matsubara0507-marp-themes/themes"
   }
 }

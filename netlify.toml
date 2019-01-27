@@ -3,5 +3,5 @@
   command = "npm run build"
 
 [[redirects]]
-  fron = "*.md"
-  to = ":splat"
+  fron = "/*.md"
+  to = "/:splat"

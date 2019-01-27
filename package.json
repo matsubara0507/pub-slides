@@ -5,7 +5,7 @@
   "license": "WTFPL",
   "private": true,
   "scripts": {
-    "build": "marp",
+    "build": "cp -r slides/assets public && marp",
     "start": "marp -ps ."
   },
   "devDependencies": {

@@ -5,7 +5,7 @@
   "license": "WTFPL",
   "private": true,
   "scripts": {
-    "build": "marp PITCHME.md",
+    "build": "marp",
     "start": "marp -ps ."
   },
   "devDependencies": {

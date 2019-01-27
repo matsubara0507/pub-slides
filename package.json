@@ -12,6 +12,7 @@
     "@marp-team/marp-cli": "^0.4.0"
   },
   "marp": {
-    "output": "dist/index.html"
+    "inputDir": "slides",
+    "output": "public"
   }
 }

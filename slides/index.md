@@ -17,8 +17,8 @@ footer: published by [Marp Next](https://marp.app/)
 
 - [example](example) by Marp
 - [example](marp_next_tips) for my theme's Olive
-- [example](marp_next_colors) by my theme's Colors
-- [example](marp_next_haskell) by my theme's Haskell
+- [example](marp_next_colors) for my theme's Colors
+- [example](marp_next_haskell) for my theme's Haskell
 
 ![width:200px](https://avatars3.githubusercontent.com/u/20685754?s=200&v=4)
 

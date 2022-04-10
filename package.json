@@ -14,7 +14,7 @@
     "@marp-team/marp-cli": "^0.17.3",
     "@larscom/cpx": "^2.0.1",
     "rimraf": "^3.0.2",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "mkdirp": ">=1.0.3"
   },
   "marp": {
